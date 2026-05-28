@@ -1,4 +1,10 @@
-![banner](https://raw.githubusercontent.com/helishia20/helishia20/refs/heads/main/banner%202.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/helishia20/helishia20/refs/heads/main/banner%202.png"
+    alt="banner"
+    style="width:100%; max-width:1400px;"
+  />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C693F7&background=000000&center=true&vCenter=true&width=435&lines=My+name+is+Elham+%2C;but+you+can+call+me+Ellie++%E2%98%BA%EF%B8%8F+)](https://git.io/typing-svg)
 
