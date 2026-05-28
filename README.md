@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner](https://raw.githubusercontent.com/helishia20/helishia20/refs/heads/main/banner%202.png)
 
 <!--
 **helishia20/helishia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
