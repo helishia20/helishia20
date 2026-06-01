@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/helishia20/helishia20/refs/heads/main/banner%202.png"
+    src="https://raw.githubusercontent.com/helishia20/helishia20/refs/heads/main/IMG_0821.jpeg"
     alt="banner"
     style="width:100%; max-width:1400px;"
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C693F7&background=000000&center=true&vCenter=true&width=435&lines=My+name+is+Elham+%2C;but+you+can+call+me+Ellie++%E2%98%BA%EF%B8%8F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4444&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I%E2%80%99m+Elham+%F0%9F%98%8A;you+can+call+me+Ellie+(Eli+for+short);I'm+a+software+developer+%F0%9F%92%BB+;+passionate+about+building+things;with+C%2C+C%2B%2B%2C+and+Python.;+I+enjoy+solving+problems%2C+;exploring+new+technologies%2C;+and+.+.+.;turning+ideas+into+working+projects.;%E2%9C%A8%E2%9C%A8)](https://git.io/typing-svg)
 
 <!--
 **helishia20/helishia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
