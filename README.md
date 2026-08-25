@@ -9,10 +9,9 @@
 
 
 
-
 <p align="center">
   <a href="https://github.com/helishia20">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Elham" alt="Hello! I&#39;m Elham" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f91a1a&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Elham" alt="Hello! I&#39;m Elham" />
   </a>
 </p>
 
@@ -59,14 +58,14 @@ just a Tech who loves coding and learns continuously some one who eats problems 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=helishia20&show_icons=true&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=helishia20&layout=compact&theme=tokyonight&title_color=65a30d&icon_color=65a30d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=helishia20&show_icons=true&theme=tokyonight&title_color=f91a1a&icon_color=f91a1a&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=helishia20&layout=compact&theme=tokyonight&title_color=f91a1a&icon_color=f91a1a&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helishia20&bg_color=00000000&color=65a30d&line=65a30d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helishia20&bg_color=00000000&color=f91a1a&line=f91a1a&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -77,4 +76,5 @@ just a Tech who loves coding and learns continuously some one who eats problems 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/helishia20">helishia20</a></i></p>
+
 
