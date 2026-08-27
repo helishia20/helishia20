@@ -65,7 +65,7 @@ just a Tech who loves coding and learns continuously some one who eats problems 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helishia20&bg_color=00000000&color=f91a1a&line=f91a1a&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"width="700" alt="3D Contributions (dark)"/>
 </p>
 
 ### 💭 Dev Quote
